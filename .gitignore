@@ -1,0 +1,6 @@
+venv
+*.mp3
+*.wav
+flagged/
+__pycache__/*
+whisper_env
